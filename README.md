@@ -18,3 +18,18 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+Я начинающий программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+Профессиональные навыки:
+ :опыт работы с HTML5, CSS3;
+ :знание CSS-фреймворков;
+ :знания PhotoShop:
+ :оформление баннеров;
+ :создание иллюстраций;
+ :верстка рекламных материалов.
