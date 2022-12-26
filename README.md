@@ -12,5 +12,4 @@
   <a href="https://www.instagram.com/smoook92/">
     <img arc="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=smoook92&style=flat-square&color=blue" alt=""/>
 </div>
