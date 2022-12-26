@@ -10,6 +10,6 @@
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/smoook92/">
-    <img arc="https://img.shields.io/badge/-instagram-red?color=white&logo=instagram&logoColor=red" />
+    <img arc="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black" />
   </a>
 </div>
