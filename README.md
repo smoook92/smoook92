@@ -12,4 +12,9 @@
   <a href="https://www.instagram.com/smoook92/">
     <img arc="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black" />
   </a>
+  
+  <h1>
+    Привет!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
