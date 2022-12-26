@@ -23,18 +23,18 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: О себе :
-<h1>Я начинающий программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.</h1>
+### :woman_technologist: <h1>О себе :</h1>
+<h2>Я начинающий программист <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.</h2>
 
-<h2>Профессиональные навыки:</h2>
-<h3>- опыт работы с HTML5, CSS3;</h3>
-<h3>- знание CSS-фреймворков;</h3>
-<h3>- знания PhotoShop:</h3>
-<h3>- оформление баннеров;</h3>
-<h3>- создание иллюстраций;</h3>
-<h3>- верстка рекламных материалов.</h3>
+<h3>Профессиональные навыки:</h4>
+<h4>- опыт работы с HTML5, CSS3;</h4>
+<h4>- знание CSS-фреймворков;</h4>
+<h4>- знания PhotoShop:</h4>
+<h4>- оформление баннеров;</h4>
+<h4>- создание иллюстраций;</h4>
+<h4>- верстка рекламных материалов.</h4>
 
-### :hammer_and_wrench: Языки и инструменты :
+### :hammer_and_wrench: <h1>Языки и инструменты :<h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
