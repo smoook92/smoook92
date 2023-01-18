@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/08ca09fa-610d-4ef6-baca-7a91c3914396-profile_banner-480.png" width="1000"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.youtube.com/@CMD_IT">
     <img src="https://img.shields.io/badge/-youtube-red?color=white&logo=youtube&logoColor=red" alt="Youtube Badge"/>
