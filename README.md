@@ -58,15 +58,6 @@
 
 **[Смотреть код проекта](https://github.com/smoook92/vk2006)**
 
----
-
-## 📊 Активность на GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smoook92&theme=tokyonight" alt="Рекорд" />
-</p>
-
----
-
 ## 📬 Контакты
 
 - **Почта:** [smoook92@gmail.com](mailto:smoook92@gmail.com)
