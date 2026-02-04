@@ -1,26 +1,81 @@
 <h1 align="center">Привет 👋, я Smoook</h1>
-<h3 align="center">Фронтенд разработчик</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Frontend-разработчик на PHP | Архитектура, чистый код, результат</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smoook92&label=Profile%20views&color=0e75b6&style=flat" alt="smoook92" /> </p>
-
-- 📫 Связь со мной **smoook92@gmail.com**
-
-- ⚡ Фронтенд разработчик **PHP**
-
-<h3 align="left">Свяжитесь со мной:</h3>
-<p align="left">
-<a href="https://instagram.com/smoook92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smoook92" height="30" width="40" /></a>
+<p align="center">
+  <i>"Люблю пошаговые планы. Думаю архитектурно, а не «как бы быстро сделать»"</i>
 </p>
 
-<h3 align="left">Языки и инструменты:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> </p>
+<p align="center">
+  <a href="https://smoook92.github.io">🌐 Портфолио</a> •
+  <a href="mailto:smoook92@gmail.com">✉️ Написать</a>
+</p>
 
-[![График активности на GitHub](https://activity-graph.herokuapp.com/graph?username=smoook92&&theme=xcode)](https://github.com/smoook92)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smoook92&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="smoook92" /></p>
+## 🚀 Обо мне
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smoook92&show_icons=true&locale=en&theme=tokyonight" alt="smoook92" /></p>
+Я — разработчик с фокусом на **Frontend-логику, архитектуру и данные**. Мой подход: глубоко понять задачу, выбрать правильное решение и реализовать его аккуратно, с заделом на будущее. Для меня важны не только работающие функции, но и понятный, поддерживаемый код.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smoook92&&theme=tokyonight" alt="smoook92" /></p>
+**Что я сейчас активно изучаю и применяю:**
+- **Frontend:** JavaScript (ES6+), адаптивная вёрстка, работа с макетами Figma
+- **Backend:** PHP 8.1+, PostgreSQL, MySQL, паттерны проектирования
+- **Архитектура:** Разделение слоёв приложения (MVC, Service/Repository), проектирование API
+- **Принципы:** Чистый код (Clean Code), DRY, SOLID (где уместно)
+- **Инструменты:** Git, Docker (базово), Composer
+
+---
+
+## 🛠 Мой стек технологий
+
+| Категория       | Технологии                                                                                                 |
+|-----------------|------------------------------------------------------------------------------------------------------------|
+| **Backend**     | ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Frontend**    | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| **Инструменты** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+## 💼 Избранные проекты
+
+### 🕰️ VK-2006 — Ностальгическая социальная сеть (Full-Stack)
+**Полноценный full-stack проект на чистом PHP 8.3+ и PostgreSQL, стилизованный под веб середины 2000-х.**
+
+> **Цель:** Воссоздать атмосферу и базовую функциональность классической социальной сети (регистрация, профили, друзья, сообщения) с нуля, используя собственную архитектуру без тяжёлых фреймворков.
+
+**Ключевая фронтенд-составляющая и UX:**
+- ✅ **Аутентичный ретро-интерфейс**: Вёрстка и стилизация, передающие дух веб-дизайна 2006 года.
+- ✅ **Динамические элементы**: Работа с формами, автозаполнение, система загрузки и отображения аватаров.
+- ✅ **Интерактивные разделы**: Реализация системы личных сообщений (диалоги), списков друзей, поиска по пользователям.
+- ✅ **Адаптивная вёрстка** (в планах): Проект задуман для дальнейшего развития в сторону мобильных устройств.
+
+**Архитектурные и бэкенд-решения (демонстрация глубины понимания):**
+- **Собственный MVC-каркас**: Реализация паттерна **Роутер → Контроллер → Сервис → Репозиторий** с нуля.
+- **Работа с данными**: Спроектирована схема БД PostgreSQL (`users`, `profiles`, `messages`, `friends`), реализован полнотекстовый поиск.
+- **Безопасность**: Реализована аутентификация на **JWT-токенах**, защита от CSRF, безопасная загрузка файлов.
+- **Чистая структура**: Проект организован в соответствии с принципами чистого кода и PSR.
+
+**Технологический стек:** PHP 8.3, PostgreSQL, Vanilla JS, нативные HTML/шаблоны.
+
+**[Смотреть код проекта](https://github.com/smoook92/vk2006)**
+
+---
+
+## 📊 Активность на GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smoook92&theme=tokyonight" alt="Рекорд" />
+</p>
+
+---
+
+## 📬 Контакты
+
+- **Почта:** [smoook92@gmail.com](mailto:smoook92@gmail.com)
+- **Сайт-портфолио:** [smoook92.github.io](https://smoook92.github.io)
+
+---
+
+> **В работе ищу:** Интересные задачи, где нужно думать об архитектуре, а не просто кодить. Проекты, где мой вклад в качество кода будет ценен. Команду, с которой можно расти и обсуждать "как сделать правильно".
+
+<p align="center">
+  <i>Открыт для предложений о работе и сотрудничестве!</i>
+</p>
