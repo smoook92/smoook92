@@ -1,72 +1,210 @@
-<h1 align="center">Привет 👋, я Smoook</h1>
-<h3 align="center">Frontend-разработчик на PHP | Архитектура, чистый код, результат</h3>
+# Сорин Михайлов
+
+### PHP / Web Developer
+
+Разрабатываю веб-сайты и веб-приложения на PHP, создаю адаптивные интерфейсы и работаю с базами данных.
+
+В разработке придерживаюсь простого принципа: **код должен быть понятным, поддерживаемым и решать конкретную задачу без лишней сложности.**
+
+---
+
+## About Me
+
+Работаю с PHP и веб-технологиями, разрабатываю проекты с нуля и дорабатываю существующие решения.
+
+Основной фокус — **PHP-разработка, backend, HTML/CSS-вёрстка и работа с базами данных**.
+
+Мне интересны реальные прикладные задачи: сайты для бизнеса, каталоги, административные панели, веб-приложения, интеграции и оптимизация.
+
+Также развиваю собственные проекты, экспериментирую с архитектурой приложений и изучаю современные подходы к PHP-разработке.
+
+---
+
+## Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-10-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square\&logo=composer\&logoColor=white)
+
+---
+
+## What I Do
+
+* Разработка сайтов с нуля
+* PHP-разработка
+* HTML/CSS-вёрстка
+* Адаптивная вёрстка
+* Разработка административных панелей
+* Каталоги и веб-приложения
+* Работа с MySQL и PostgreSQL
+* Интеграция внешних сервисов и API
+* Исправление ошибок и доработка существующих проектов
+* Оптимизация frontend, backend и SQL
+* Разработка собственных архитектурных решений
+
+---
+
+## Featured Projects
+
+### VK-2006
+
+**Ностальгическая социальная сеть в стиле ВКонтакте 2006 года.**
+
+Full-stack проект на чистом PHP с собственной архитектурой и PostgreSQL.
+
+**Key Features:**
+
+* собственная MVC-подобная архитектура;
+* Router / Controller / Service / Repository;
+* PostgreSQL;
+* JWT-аутентификация;
+* CSRF-защита;
+* профили пользователей;
+* друзья и заявки;
+* личные сообщения;
+* поиск пользователей;
+* фотоальбомы;
+* загрузка файлов.
+
+**Stack:** `PHP` · `PostgreSQL` · `JavaScript`
+
+[View Repository →](https://github.com/smoook92/vk2006)
+
+---
+
+### Job Portal
+
+**Веб-приложение для поиска и размещения вакансий.**
+
+Система с отдельными ролями пользователей, работодателей и администратора.
+
+**Key Features:**
+
+* регистрация и авторизация;
+* профили пользователей;
+* загрузка резюме;
+* поиск и фильтрация вакансий;
+* отклики на вакансии;
+* избранные вакансии;
+* кабинеты работодателей;
+* управление вакансиями;
+* административная панель;
+* работа с базой данных;
+* API и AJAX-функциональность.
+
+**Stack:** `PHP` · `MySQL` · `JavaScript` · `Bootstrap 5`
+
+[View Repository →](https://github.com/smoook92/job-portal)
+
+---
+
+### Artezza
+
+**Сайт-каталог для бизнеса по продаже лакокрасочных материалов.**
+
+Проект с каталогом товаров и функциональностью интернет-магазина.
+
+**Key Features:**
+
+* каталог товаров;
+* категории;
+* карточки товаров;
+* поиск;
+* корзина;
+* оформление заказа;
+* отзывы;
+* портфолио;
+* адаптивный интерфейс;
+* SEO-элементы;
+* `robots.txt`;
+* `sitemap.xml`.
+
+**Stack:** `HTML` · `CSS` · `JavaScript`
+
+[View Repository →](https://github.com/smoook92/artezza)
+
+---
+
+### Student Management
+
+**Система управления образовательным процессом.**
+
+Проект на Laravel для управления студентами, преподавателями, курсами, группами, заявками и платежами.
+
+**Key Features:**
+
+* управление студентами;
+* преподаватели;
+* курсы;
+* группы;
+* заявки на зачисление;
+* платежи;
+* CRUD-функциональность;
+* работа с базой данных;
+* тестирование.
+
+**Stack:** `PHP` · `Laravel 10` · `MySQL` · `JavaScript`
+
+[View Repository →](https://github.com/smoook92/studentmanagement-app)
+
+---
+
+## Development Approach
+
+В работе стараюсь придерживаться нескольких принципов:
+
+* **Readable Code** — код должен быть понятен другому разработчику.
+* **Maintainability** — проект должен оставаться удобным для дальнейшей разработки.
+* **Practical Solutions** — решение должно соответствовать реальной задаче.
+* **Simple Architecture** — не усложнять систему без необходимости.
+* **Security** — учитывать безопасность на уровне приложения и базы данных.
+* **Performance** — избегать неоправданных запросов, зависимостей и лишней нагрузки.
+* **Continuous Learning** — постоянно изучать новые инструменты и подходы.
+
+---
+
+## GitHub
+
+Здесь находятся мои учебные, коммерческие и собственные проекты.
+
+Некоторые из них продолжают развиваться, другие являются завершёнными экспериментами или результатом обучения.
+
+**Все проекты:**
+[github.com/smoook92 →](https://github.com/smoook92)
+
+**Portfolio:**
+[Coming soon →](#)
+
+---
+
+## Contact
+
+Если у вас есть предложение о работе, интересный проект или задача по веб-разработке:
+
+* **Email:** [your-email@example.com](mailto:axess-88@mail.ru)
+* **Telegram:** @nek_k_kto
+* **GitHub:** [github.com/smoook92](https://github.com/smoook92)
+
+---
 
 <p align="center">
-  <i>"Люблю пошаговые планы. Думаю архитектурно, а не «как бы быстро сделать»"</i>
-</p>
-
-<p align="center">
-  <a href="https://smoook92.github.io">🌐 Портфолио</a> •
-  <a href="mailto:smoook92@gmail.com">✉️ Написать</a>
-</p>
-
----
-
-## 🚀 Обо мне
-
-Я — разработчик с фокусом на **Frontend-логику, архитектуру и данные**. Мой подход: глубоко понять задачу, выбрать правильное решение и реализовать его аккуратно, с заделом на будущее. Для меня важны не только работающие функции, но и понятный, поддерживаемый код.
-
-**Что я сейчас активно изучаю и применяю:**
-- **Frontend:** JavaScript (ES6+), адаптивная вёрстка, работа с макетами Figma
-- **Backend:** PHP 8.1+, PostgreSQL, MySQL, паттерны проектирования
-- **Архитектура:** Разделение слоёв приложения (MVC, Service/Repository), проектирование API
-- **Принципы:** Чистый код (Clean Code), DRY, SOLID (где уместно)
-- **Инструменты:** Git, Docker (базово), Composer
-
----
-
-## 🛠 Мой стек технологий
-
-| Категория       | Технологии                                                                                                 |
-|-----------------|------------------------------------------------------------------------------------------------------------|
-| **Backend**     | ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Frontend**    | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| **Инструменты** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
----
-
-## 💼 Избранные проекты
-
-### 🕰️ VK-2006 — Ностальгическая социальная сеть (Full-Stack)
-**Полноценный full-stack проект на чистом PHP 8.3+ и PostgreSQL, стилизованный под веб середины 2000-х.**
-
-> **Цель:** Воссоздать атмосферу и базовую функциональность классической социальной сети (регистрация, профили, друзья, сообщения) с нуля, используя собственную архитектуру без тяжёлых фреймворков.
-
-**Ключевая фронтенд-составляющая и UX:**
-- ✅ **Аутентичный ретро-интерфейс**: Вёрстка и стилизация, передающие дух веб-дизайна 2006 года.
-- ✅ **Динамические элементы**: Работа с формами, автозаполнение, система загрузки и отображения аватаров.
-- ✅ **Интерактивные разделы**: Реализация системы личных сообщений (диалоги), списков друзей, поиска по пользователям.
-- ✅ **Адаптивная вёрстка** (в планах): Проект задуман для дальнейшего развития в сторону мобильных устройств.
-
-**Архитектурные и бэкенд-решения (демонстрация глубины понимания):**
-- **Собственный MVC-каркас**: Реализация паттерна **Роутер → Контроллер → Сервис → Репозиторий** с нуля.
-- **Работа с данными**: Спроектирована схема БД PostgreSQL (`users`, `profiles`, `messages`, `friends`), реализован полнотекстовый поиск.
-- **Безопасность**: Реализована аутентификация на **JWT-токенах**, защита от CSRF, безопасная загрузка файлов.
-- **Чистая структура**: Проект организован в соответствии с принципами чистого кода и PSR.
-
-**Технологический стек:** PHP 8.3, PostgreSQL, Vanilla JS, нативные HTML/шаблоны.
-
-**[Смотреть код проекта](https://github.com/smoook92/vk2006)**
-
-## 📬 Контакты
-
-- **Почта:** [smoook92@gmail.com](mailto:smoook92@gmail.com)
-- **Сайт-портфолио:** [smoook92.github.io](https://smoook92.github.io)
-
----
-
-> **В работе ищу:** Интересные задачи, где нужно думать об архитектуре, а не просто кодить. Проекты, где мой вклад в качество кода будет ценен. Команду, с которой можно расти и обсуждать "как сделать правильно".
-
-<p align="center">
-  <i>Открыт для предложений о работе и сотрудничестве!</i>
+  <sub>PHP / Web Developer</sub>
 </p>
